@@ -1,0 +1,1 @@
+Ho creato il database, con le tabelle richieste e i vari clienti e fornitori
